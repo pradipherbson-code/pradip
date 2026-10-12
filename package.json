@@ -1,0 +1,12 @@
+{
+  "name": "pradip",
+  "version": "1.0.0",
+  "description": "OmniStream Multi-Platform Social Media & MP3 Downloader",
+  "private": true,
+  "scripts": {
+    "postinstall": "echo 'Speed Insights package installed'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  }
+}
